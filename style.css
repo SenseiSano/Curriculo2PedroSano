@@ -1,0 +1,35 @@
+
+body{
+	background-image: url("b.jpg");
+}
+table{
+background-color:white;
+	text-align:center;
+	align:center;
+	border-radius:30px;
+	size:60px;
+	margin:auto;
+	padding:30px;
+	width:70%;
+}
+h3{color:black;
+ font-size:24px; 
+ font-family:tahoma;
+ }
+
+h1{
+	color:white;
+ font-size:50px; 
+ font-family:timesnewroman;
+ }
+
+
+ h2{color:black ;
+ font-size:35px; 
+ font-family:arial;
+ }
+ hr{
+	 height:2px;
+	 background-color:black;
+	 border-style:none;
+ }
